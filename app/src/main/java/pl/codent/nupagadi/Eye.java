@@ -1,6 +1,7 @@
 package pl.codent.nupagadi;
 
 public class Eye {
+    static int move=0;
     int eyeNr;
     int step;
     boolean visible;

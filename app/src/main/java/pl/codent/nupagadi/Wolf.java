@@ -1,6 +1,7 @@
 package pl.codent.nupagadi;
 
 public class Wolf {
+    static WOLF_POS wolf_pos=WOLF_POS.LU;
     float posX;
     float posY;
     boolean visible;
